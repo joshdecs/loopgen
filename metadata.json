@@ -1,0 +1,5 @@
+{
+  "name": "LoopGen AI",
+  "description": "AI-powered music loop generator using Gemini and Tone.js. Describe your beat, and hear it instantly.",
+  "requestFramePermissions": []
+}
